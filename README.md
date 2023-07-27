@@ -11,5 +11,5 @@
 - checking off your completed list using the buttons.
 
 ## What I learned through this lecture
-- You have seen how the MVVM architecture is used.
 - I tasted the swiftUI, not the storyboard.
+- I have seen how the MVVM architecture is used.
