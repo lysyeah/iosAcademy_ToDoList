@@ -8,8 +8,8 @@
 - Sign up, in, out
 - Add some lists and delete them with sliding
 - On the Profile tab, you can view your profile information stored in the database.
-- checking off your completed list using the buttons.
+- checking on/off lists using the buttons.
 
 ## What I learned through this lecture
-- I tasted the swiftUI, not the storyboard.
+- I tasted the swiftUI, instead of the storyboard.
 - I have seen how the MVVM architecture is used.
